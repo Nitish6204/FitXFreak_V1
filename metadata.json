@@ -1,0 +1,6 @@
+{
+  "name": "FIT X FREAK – Elite Performance & Luxury Fitness",
+  "description": "Uncompromising athletic drive meets high-end luxury equipment at FIT X FREAK. Explore our 24/7 clubs, Olympic-grade equipment catalog, certified personal trainers, and membership plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
